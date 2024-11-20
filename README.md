@@ -18,9 +18,5 @@
 
 <a href="https://www.linkedin.com/in/alison-schatz-10b75b246/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="alison-schatz-10b75b246" height="40" width="40" /></a>
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&locale=en&theme=tokyonight" alt="alisonschatz" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonschatz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alisonschatz" /></p>
