@@ -1,22 +1,47 @@
+<h1 align="center">👋 Hello, I'm Alison Schatz!</h1>
+<h3 align="center">A passionate Frontend Developer focused on Flutter from Brazil</h3>
 
-<h1 align="center">Hi 👋, I'm Alison Schatz</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
-- 🔭 I’m currently working on **My Portfolio**
+---
 
-- 🌱 I’m currently learning **React.JS**
+### 🚀 About Me
+- 🔭 Currently working on **My Portfolio**
+- 🌱 Exploring **Flutter** and mastering **Dart** for cross-platform development.
+- 💬 Feel free to ask me about **Frontend Development, Flutter, or Anime!**
+- 📫 Reach me at **alisonschatz1@gmail.com**
+- ⚡ Fun fact: I'm an **anime enthusiast** and love diving into tech discussions.
 
-- 💬 Ask me about **Technology , Anime**
+---
 
-- 📫 How to reach me **alisonschatz1@gmail.com**
+### 💻 Tech Stack
+- **Languages & Frameworks:**  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
-- ⚡ Fun fact **I love Animes**
+- **Tools & Platforms:**  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
-<a href="https://www.linkedin.com/in/alison-schatz-10b75b246/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="alison-schatz-10b75b246" height="40" width="40" /></a>
- 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&locale=en&theme=tokyonight" alt="alisonschatz" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonschatz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alisonschatz" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&locale=en&theme=tokyonight" alt="alisonschatz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonschatz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alisonschatz" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/alison-schatz-10b75b246/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
