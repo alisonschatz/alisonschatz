@@ -17,24 +17,27 @@
 ---
 
 ### 💻 Tech Stack
-- **Languages & Frameworks:**  
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+#### Languages and Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css" alt="Tech Stack" />
+</p>
 
-- **Tools & Platforms:**  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,git,linux,vscode" alt="Tools and Platforms" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&locale=en&theme=tokyonight" alt="alisonschatz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisonschatz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alisonschatz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alisonschatz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisonschatz&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonschatz&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
