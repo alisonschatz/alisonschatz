@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=120&section=header&text=⚡%20DEVELOPMENT%20ZONE%20⚡&fontSize=30&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=120&section=header&text=✧%20SACRED%20REALM%20OF%20CODING%20✧&fontSize=30&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=2"/>
 </div>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FA4FC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+Eu+sou+o+Alison+Schatz!;Desenvolvedor+Frontend+⚡;Power+Level+Over+9000!+🔥;Welcome+to+my+Profile!+👾)](https://git.io/typing-svg)
