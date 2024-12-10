@@ -55,27 +55,110 @@ const alison = {
 - ⚡ Debugando em velocidade supersônica
 - 🎮 Side quest: Completando minha lista de animes
 
+### 🌟 Achievement Progress
+
+<div align="center">
+
+```plaintext
+⚔️ BATTLE STATS: FRONTEND SAGA ⚔️
+
+╔════════════════════════════════════════════════════════╗
+  LEVEL 82 DEVELOPER  |  CLASS: FRONTEND NINJA  |  EXP: MAX
+╠════════════════════════════════════════════════════════╣
+     
+⚡ ULTIMATE TECHNIQUES:
+╟────────────────────────────────────────────────────────╢
+  CODING ENGINE      [SSJ2]      ▰▰▰▰▰▰▰▰▱▱ 
+  └─━━━「 Mastery Level: 82% - Ultimate Power Unleashed 」
+
+  DEBUGGING MASTERY  [ELITE]     ▰▰▰▰▰▰▰▱▱▱ 
+  └─━━━「 Mastery Level: 78% - Bug Slayer Elite 」
+
+  FLUTTER SAGE      [BANKAI]     ▰▰▰▰▰▰▱▱▱▱ 
+  └─━━━「 Mastery Level: 70% - Cross-Platform Master 」
+
+  REACT POWER       [CHAKRA]     ▰▰▰▰▰▱▱▱▱▱ 
+  └─━━━「 Mastery Level: 65% - Component Sorcerer 」
+╟────────────────────────────────────────────────────────╢
+
+✨ LEGENDARY ACHIEVEMENTS:
+╟────────────────────────────────────────────────────────╢
+  🏆 ONE PUNCH DEBUGGER  - "Bugs Fear This Developer"
+  ⚔️ FULL STACK SORCERER - "Master of All Realms"
+  📜 CLEAN CODE SAGE     - "Keeper of Sacred Standards"
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 ### 💻 Tech Stack (Equipped Items)
 
 <div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-</div>
-
-### 🌟 Achievement Progress
 
 ```plaintext
-Level Progress   [█████████████████████--------]  82%
-Bug Fixes       [████████████████████---------]  78%
-Clean Code      [███████████████████----------]  75%
-Anime Watched   [██████████████---------------]  55%
+⚡ MAIN WEAPONS ⚡
 ```
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+  <br>Flutter
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+  <br>Dart
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+  <br>React
+</td>
+</tr>
+</table>
+
+```plaintext
+🛡️ SUPPORT SKILLS 🛡️
+```
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+  <br>HTML
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+  <br>CSS
+</td>
+</tr>
+</table>
+
+```plaintext
+🔧 TOOLS OF POWER 🔧
+```
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+  <br>VSCode
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+  <br>Firebase
+</td>
+</tr>
+</table>
+
+</div>
 
 ### 🎮 Social Links (Party Up!)
 
