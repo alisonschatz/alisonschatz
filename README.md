@@ -179,7 +179,7 @@ const alison = {
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=root%40dev:~%24%20./initialize_developer.sh&fontColor=6FA4FC&fontSize=25&animation=fadeIn"/>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=✦%20DEVELOPER%20LOADED%20[▰▰▰▰▰▰▰▰▰▱]%2098%%20✦&fontSize=20&animation=blinking"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6FA4FC&height=60&section=header&text=✦%20DEVELOPER%20LOADED%20[▰▰▰▰▰▰▰▰▰▱]%2098%%20✦&fontSize=20&animation=blinking&fontColor=fff"/>
 </div>
 
 <!-- Easter Egg: Konami Code Activated! -->
