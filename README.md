@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=120&section=header&text=⚡%20DEVELOPMENT%20ZONE%20⚡&fontSize=30&fontColor=fff&animation=twinkling&stroke=fff&strokeWidth=2"/>
+</div>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6FA4FC&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+Eu+sou+o+Alison+Schatz!;Desenvolvedor+Frontend+⚡;Power+Level+Over+9000!+🔥;Welcome+to+my+Profile!+👾)](https://git.io/typing-svg)
 </div>
@@ -175,7 +176,10 @@ const alison = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6FA4FC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=root%40dev:~%24%20./initialize_developer.sh&fontColor=6FA4FC&fontSize=25&animation=fadeIn"/>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=✦%20DEVELOPER%20LOADED%20[▰▰▰▰▰▰▰▰▰▱]%2098%%20✦&fontSize=20&animation=blinking"/>
 </div>
 
 <!-- Easter Egg: Konami Code Activated! -->
