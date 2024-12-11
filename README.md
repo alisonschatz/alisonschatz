@@ -161,20 +161,6 @@ const alison = {
 
 </div>
 
-### 🎮 Social Links (Party Up!)
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alison-schatz-10b75b246/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:alisonschatz1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/alisonschatz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=root%40dev:~%24%20./initialize_developer.sh&fontColor=6FA4FC&fontSize=25&animation=fadeIn"/>
 </div>
