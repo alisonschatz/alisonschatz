@@ -49,7 +49,7 @@ const alison = {
 
 ### 🎯 Current Story Arc
 
-> *"Em busca de me tornar o maior desenvolvedor dos multiversos, acreditando que com grande código vem grandes responsabilidades!"*
+> *"Em busca de me tornar o maior desenvolvedor dos multiversos, acreditando que com grandes códigos vem grandes responsabilidades!"*
 
 - 🔭 Desenvolvendo meu portfólio lendário
 - 🌱 Expandindo meus poderes em Flutter
@@ -167,5 +167,3 @@ const alison = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:6FA4FC&height=60&section=header&text=✦%20DEVELOPER%20LOADED%20[▰▰▰▰▰▰▰▰▰▱]%2098%%20✦&fontSize=20&animation=blinking&fontColor=fff"/>
 </div>
-
-<!-- Easter Egg: Konami Code Activated! -->
