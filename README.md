@@ -56,42 +56,6 @@ const alison = {
 - ⚡ Debugando em velocidade supersônica
 - 🎮 Side quest: Completando minha lista de animes
 
-### 🌟 Achievement Progress
-
-<div align="center">
-
-```plaintext
-⚔️ BATTLE STATS: FRONTEND SAGA ⚔️
-
-╔════════════════════════════════════════════════════════╗
-  LEVEL 82 DEVELOPER  |  CLASS: FRONTEND NINJA  |  EXP: MAX
-╠════════════════════════════════════════════════════════╣
-     
-⚡ ULTIMATE TECHNIQUES:
-╟────────────────────────────────────────────────────────╢
-  CODING ENGINE      [SSJ2]      ▰▰▰▰▰▰▰▰▱▱ 
-  └─━━━「 Mastery Level: 82% - Ultimate Power Unleashed 」
-
-  DEBUGGING MASTERY  [ELITE]     ▰▰▰▰▰▰▰▱▱▱ 
-  └─━━━「 Mastery Level: 78% - Bug Slayer Elite 」
-
-  FLUTTER SAGE      [BANKAI]     ▰▰▰▰▰▰▱▱▱▱ 
-  └─━━━「 Mastery Level: 70% - Cross-Platform Master 」
-
-  REACT POWER       [CHAKRA]     ▰▰▰▰▰▱▱▱▱▱ 
-  └─━━━「 Mastery Level: 65% - Component Sorcerer 」
-╟────────────────────────────────────────────────────────╢
-
-✨ LEGENDARY ACHIEVEMENTS:
-╟────────────────────────────────────────────────────────╢
-  🏆 ONE PUNCH DEBUGGER  - "Bugs Fear This Developer"
-  ⚔️ FULL STACK SORCERER - "Master of All Realms"
-  📜 CLEAN CODE SAGE     - "Keeper of Sacred Standards"
-╚════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ### 💻 Tech Stack (Equipped Items)
 
 <div align="center">
