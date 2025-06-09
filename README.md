@@ -26,10 +26,32 @@ console.log("👋 Bem-vindo ao meu perfil!");
 
 ```ts
 const stack = {
-  frontend: ["React", "Next.js", "JavaScript", "TypeScript", "HTML", "CSS", "Sass", "Tailwind"],
-  mobile: ["Flutter", "Dart"],
-  backend: ["Firebase", "MongoDB"]
+  frontend: [
+    "React", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3", 
+    "Sass/SCSS", "Tailwind CSS", "Bootstrap", "Material-UI", "Styled Components",
+    "Redux", "React Query", "Vite", "Webpack"
+  ],
+  mobile: [
+    "Flutter", "Dart", "Android Studio", 
+    "Firebase SDK", "SQLite"
+  ],
+  backend: [
+    "Node.js", "Firebase", "MongoDB", "PostgreSQL", 
+    "REST APIs"
+  ],
+  cloud: [
+    "Vercel", "Netlify", "Firebase Hosting", "AWS", "Google Cloud"
+  ],
+  tools: [
+    "Git", "GitHub", "VS Code", "Figma", "Postman", "Docker",
+    "ESLint", "Prettier", "Jest", "Cypress", "Chrome DevTools"
+  ],
+  design: [
+    "Figma", "Adobe XD", "Canva", "UI/UX Design", "Responsive Design",
+    "Design Systems", "Prototyping", "Wireframing"
+  ]
 };
+
 ```
 
 ---
