@@ -22,37 +22,69 @@ console.log("👋 Bem-vindo ao meu perfil!");
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-```ts
-const stack = {
-  frontend: [
-    "React", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3", 
-    "Sass/SCSS", "Tailwind CSS", "Bootstrap", "Material-UI", "Styled Components",
-    "Redux", "React Query", "Vite", "Webpack"
-  ],
-  mobile: [
-    "Flutter", "Dart", "Android Studio", 
-    "Firebase SDK", "SQLite"
-  ],
-  backend: [
-    "Node.js", "Firebase", "MongoDB", "PostgreSQL", 
-    "REST APIs"
-  ],
-  cloud: [
-    "Vercel", "Netlify", "Firebase Hosting", "AWS", "Google Cloud"
-  ],
-  tools: [
-    "Git", "GitHub", "VS Code", "Figma", "Postman", "Docker",
-    "ESLint", "Prettier", "Jest", "Cypress", "Chrome DevTools"
-  ],
-  design: [
-    "Figma", "Adobe XD", "Canva", "UI/UX Design", "Responsive Design",
-    "Design Systems", "Prototyping", "Wireframing"
-  ]
-};
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>  
+</p>
 
-```
+---
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
+</p>
+
+---
+
+### 🔧 Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>  
+</p>
+
+---
+
+### ☁️ Cloud & Hosting
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="40" alt="Vercel"/>
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase Hosting"/>
+</p>
+
+---
+
+### ⚙️ Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+</p>
+
+---
+
+### 🎨 Design
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+</p>
+
 
 ---
 
