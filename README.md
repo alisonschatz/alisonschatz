@@ -8,7 +8,7 @@
 
 ---
 
-## 🧙 Nome do Herói: Alison Schatz
+## 🧙 Nome: Alison Schatz
 
 > "A sabedoria é o melhor loot."
 
