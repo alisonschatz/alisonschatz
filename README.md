@@ -4,11 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://i.ibb.co/G410JcFH/Chat-GPT-Image-12-de-jun-de-2025-15-32-45.png" width="130px" alt="InventoryX Logo" />
-</div>
-
-
 <h1 align="center">🏰 Guilda dos Devs – Perfil de Aventureiro</h1>
 
 ---
