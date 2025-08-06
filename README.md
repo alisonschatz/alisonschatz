@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">🧪 Alison Schatz – QA & Dev Frontend</h1>
+<h1 align="center">🧪 QA & Dev Frontend 🧪</h1>
 
 ---
 
