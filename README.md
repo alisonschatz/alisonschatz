@@ -2,12 +2,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Visitas" height="20" alt="visitas" />
 
-  <br><br>
-
   <h1>Alison Schatz</h1>
-  <h3 align="center">QA Engineer & Frontend Developer</h3>
-
-  <br><br><br>
+  <h3 align="center">QA Engineer & Frontend Developer</h3> 
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&count_private=true&hide_border=true&title_color=6FA4FC&icon_color=6FA4FC&text_color=8b949e&bg_color=00000000"
@@ -20,29 +16,8 @@
     alt="Top Languages"
   />
 
-  <br><br>
-
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=alisonschatz&theme=react-dark&hide_border=true&area=true&custom_title=fluxo+de+contribuições"
     width="100%"
     alt="Activity Graph"
   />
-
-  <br><br>
-
-  <samp>
-    ✉️ alisonschatz1@gmail.com  
-    &nbsp;&nbsp;•&nbsp;&nbsp; 
-    🔗 <a href="https://linkedin.com/in/alisonschatz">linkedin</a>
-  </samp>
-
-  <br><br>
-
-  <blockquote>
-    <i>
-      Testar não é encontrar bugs.  
-      É garantir que o comportamento corresponda à intenção.
-    </i>
-  </blockquote>
-
-</div>
