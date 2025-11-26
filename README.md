@@ -1,23 +1,53 @@
 <div align="center">
+  
+# Alison Schatz
 
-  <img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Visitas" height="20" alt="visitas" />
+### QA Engineer & Frontend Developer
 
-  <h1>Alison Schatz</h1>
-  <h3 align="center">QA Engineer & Frontend Developer</h3> 
+<img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+---
+
+### 📊 GitHub Analytics
+
+<p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&count_private=true&hide_border=true&title_color=6FA4FC&icon_color=6FA4FC&text_color=8b949e&bg_color=00000000"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=alisonschatz&show_icons=true&count_private=true&hide_border=true&title_color=6FA4FC&icon_color=6FA4FC&text_color=c9d1d9&bg_color=0d1117&border_radius=8" 
+    width="49%" 
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonschatz&layout=compact&hide_border=true&title_color=6FA4FC&text_color=8b949e&bg_color=00000000&hide=html,css"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonschatz&layout=compact&hide_border=true&title_color=6FA4FC&text_color=c9d1d9&bg_color=0d1117&hide=html,css&border_radius=8" 
+    width="49%" 
     alt="Top Languages"
   />
+</p>
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=alisonschatz&theme=react-dark&hide_border=true&area=true&custom_title=fluxo+de+contribuições"
-    width="100%"
-    alt="Activity Graph"
-  />
+### 📈 Contribution Activity
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=alisonschatz&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117&color=6FA4FC&line=6FA4FC&point=58a6ff" 
+  width="100%" 
+  alt="Contribution Graph"
+/>
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisonschatz)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+</div>
