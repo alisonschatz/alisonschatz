@@ -2,7 +2,7 @@
 
 # Alison Schatz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Frontend+Developer+with+QA+Mindset" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Full+Stack+Developer+with+QA+Mindset" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Profile+Views" />
