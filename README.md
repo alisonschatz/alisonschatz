@@ -1,10 +1,8 @@
-
 <div align="center">
 
 # Alison Schatz
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Frontend+Developer+with+QA+Mindset" />
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Profile+Views" />
@@ -13,11 +11,11 @@
 
 ---
 
-## About Me
+## Sobre mim
 
-QA Engineer focused on building reliable, scalable and maintainable automated testing solutions — working with E2E testing, API testing, CI/CD pipelines and quality strategies integrated into agile development processes.
+QA Engineer especializado em automação de testes E2E e API.
 
-> "Quality is not a final step — it's part of the development process."
+Defendo qualidade desde a especificação, não só no final. Na prática isso significa trabalhar junto com devs e produto antes do código existir, aplicar Shift-Left e BDD, e integrar automação em pipelines CI/CD de um jeito que faça sentido pro time, não só pro processo.
 
 ---
 
@@ -25,7 +23,7 @@ QA Engineer focused on building reliable, scalable and maintainable automated te
 
 **QA & Testing**
 
-![Playwright](https://img.shields.io/badge/-Playwright-45BA63?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -36,12 +34,12 @@ QA Engineer focused on building reliable, scalable and maintainable automated te
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **DevOps & Tools**
 
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -56,5 +54,3 @@ QA Engineer focused on building reliable, scalable and maintainable automated te
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisonschatz&theme=github_dark" width="100%" />
 </p>
-
----
