@@ -13,9 +13,9 @@
 
 ## Sobre mim
 
-QA Engineer especializado em automação de testes E2E e API.
+QA Engineer especializado em automação de testes E2E e API, com foco em Shift-Left, BDD e pipelines CI/CD. 
 
-Defendo qualidade desde a especificação, não só no final. Na prática isso significa trabalhar junto com devs e produto antes do código existir, aplicar Shift-Left e BDD, e integrar automação em pipelines CI/CD de um jeito que faça sentido pro time, não só pro processo.
+Construo automação que entra cedo no ciclo, não no final.
 
 ---
 
