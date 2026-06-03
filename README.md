@@ -11,14 +11,6 @@
 
 ---
 
-## Sobre mim
-
-QA Engineer especializado em automação de testes E2E e API, com foco em Shift-Left, BDD e pipelines CI/CD. 
-
-Construo automação que entra cedo no ciclo, não no final.
-
----
-
 ## Tech Stack
 
 **QA & Testing**
