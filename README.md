@@ -2,15 +2,6 @@
 
 # Alison Schatz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=6FA4FC&center=true&vCenter=true&width=600&lines=QA+Automation+Engineer;Playwright+%7C+Cypress+%7C+API+Testing;Full+Stack+Developer+with+QA+Mindset" />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alisonschatz&color=6FA4FC&style=flat-square&label=Profile+Views" />
-</div>
-</div>
-
----
-
 ## Tech Stack
 
 **QA & Testing**
@@ -34,15 +25,3 @@
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisonschatz&theme=transparent&hide_border=true&ring=6FA4FC&fire=6FA4FC&currStreakLabel=6FA4FC&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisonschatz&theme=github_dark" width="100%" />
-</p>
