@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230">
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .row { animation: in .5s ease backwards; }
+    .r1 { animation-delay: .2s; } .r2 { animation-delay: .5s; } .r3 { animation-delay: .8s; } .r4 { animation-delay: 1.1s; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  </style>
+  <rect x="1" y="1" width="838" height="228" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="32" y="40" class="mono" font-size="12" fill="#8b949e" letter-spacing="2">01 · SOBRE MIM</text>
+
+  <text x="32" y="74" class="mono" font-size="14" fill="#e6edf3"><tspan fill="#d2a8ff">describe</tspan>(<tspan fill="#a5d6ff">'Alison'</tspan>, () =&gt; {</text>
+
+  <g class="row r1"><text x="56" y="106" class="sans" font-size="15" fill="#c9d1d9"><tspan fill="#3fb950" class="mono">✓ </tspan> automatiza testes E2E e de API para que cada deploy chegue com confiança</text></g>
+  <g class="row r2"><text x="56" y="134" class="sans" font-size="15" fill="#c9d1d9"><tspan fill="#3fb950" class="mono">✓ </tspan> integra a qualidade ao pipeline de CI/CD, e não só ao fim da sprint</text></g>
+  <g class="row r3"><text x="56" y="162" class="sans" font-size="15" fill="#c9d1d9"><tspan fill="#3fb950" class="mono">✓ </tspan> desenvolve interfaces com Vue e TypeScript, olhando o produto dos dois lados</text></g>
+  <g class="row r4"><text x="56" y="190" class="sans" font-size="15" fill="#c9d1d9"><tspan fill="#3fb950" class="mono">✓ </tspan> mede performance com k6 antes que o usuário perceba o gargalo</text></g>
+
+  <text x="32" y="216" class="mono" font-size="14" fill="#e6edf3">})</text>
+</svg>
